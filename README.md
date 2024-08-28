@@ -1,2 +1,2 @@
 # Simple Console Calculator
-Simple Console Calculator is the fast simple project i have done to learn C-Sharp and DotNet Framework.
+Simple Console Calculator is a small project I have done to learn C-Sharp and DotNet Framework.
